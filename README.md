@@ -1,2 +1,2 @@
-# C-test
+# Test
 Trying C++
